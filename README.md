@@ -90,4 +90,7 @@
 
 <a href="https://github.com/Nimith-M-Gowda/"><img alt="Nimith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nimith-M-Gowda&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+&nbsp;
+&nbsp;
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>
