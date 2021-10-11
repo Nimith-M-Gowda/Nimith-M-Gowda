@@ -32,7 +32,6 @@
 </p>
 
 ## 🛠️ My favorite tools
-#
 
 
 ### 👨‍💻 Programming languages
