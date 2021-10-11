@@ -31,7 +31,7 @@
   </a>
 </p>
 
-## 🛠️ My favorite tools
+## 🛠️ My favorites
 
 
 ### 👨‍💻 Programming languages
