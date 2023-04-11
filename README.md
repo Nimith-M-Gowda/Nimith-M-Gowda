@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Nimith-M-Gowda"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20developer;AWS%20certified%20Developer%20Associate;Azure%20Certified%20Fundamentals;4%2B%20years%20of%20coding%20experience;NO%20LIMITS&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/Nimith-M-Gowda"><img src="https://readme-typing-svg.herokuapp.com/?lines=Was%20a%20React%20developer%20and%20now%20mostly%20on%20Java%20Springboot;AWS%20certified%20Developer%20Associate;Azure%20Certified%20Fundamentals;4%2B%20years%20of%20coding%20experience;NO%20LIMITS&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
