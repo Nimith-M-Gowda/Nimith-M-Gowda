@@ -95,6 +95,8 @@
 &nbsp;
 &nbsp;
 
+![Nimith's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nimith-m-gowda&layout=compact&theme=radical)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
