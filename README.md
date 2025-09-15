@@ -90,6 +90,14 @@
 
 <a href="https://github.com/Nimith-M-Gowda/"><img alt="Nimith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nimith-M-Gowda&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+<a href="https://github.com/Nimith-M-Gowda/">
+  <img alt="Nimith's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nimith-M-Gowda&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
+
+![Nimith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimith-M-Gowda&show_icons=true&theme=radical)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimith-M-Gowda&theme=radical" alt="Nimith's GitHub streak" />
+
 &nbsp;
 &nbsp;
 
