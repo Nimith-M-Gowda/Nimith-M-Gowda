@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *" # runs once daily at midnight
   workflow_dispatch:
 
+permissions:
+  contents: write      # <-- allow workflow to update README
+  pull-requests: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
