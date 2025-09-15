@@ -26,11 +26,6 @@
 
 ## 🔥 Streak stats
 
-<p align="center">
-
-  ![Project Preview](https://user-images.githubusercontent.com/15426564/88030180-8e1c4780-cb58-11ea-8a8b-b3576dd73652.png)
-
-</p>
 
 <p align="center">
   <a href="https://github.com/Nimith-M-Gowda"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nimith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimith-M-Gowda&theme=monokai-metallian&hide_border=true"/>
