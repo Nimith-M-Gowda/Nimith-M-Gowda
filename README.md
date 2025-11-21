@@ -99,11 +99,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript           15 hrs 54 mins  █████████████░░░░░░░░░░░░   52.03 %
-Markdown             6 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.11 %
-Python               2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Mermaid              1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-JavaScript           55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+TypeScript           17 hrs 5 mins   ████████████▒░░░░░░░░░░░░   49.21 %
+Markdown             8 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
+Python               2 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Mermaid              1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+SQL                  55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
